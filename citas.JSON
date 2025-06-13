@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "nombre": "pedrito",
+    "edad": "5",
+    "tipo": "perro",
+    "color": "cafe",
+    "enfermedad": "tos"
+  },
+  {
+    "nombre": "japon",
+    "edad": "7",
+    "tipo": "gato",
+    "color": "negro",
+    "enfermedad": "vomitos"
+  },
+  {
+    "nombre": "ricardo",
+    "edad": "3",
+    "tipo": "loro",
+    "color": "verde",
+    "enfermedad": "fiebre"
+  }
+]
