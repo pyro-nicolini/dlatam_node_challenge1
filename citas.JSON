@@ -1,21 +1,24 @@
 [
   {
+    "id": 1,
     "nombre": "pedrito",
-    "edad": "5",
+    "edad": 5,
     "tipo": "perro",
     "color": "cafe",
     "enfermedad": "tos"
   },
   {
+    "id": 2,
     "nombre": "japon",
-    "edad": "7",
+    "edad": 7,
     "tipo": "gato",
     "color": "negro",
     "enfermedad": "vomitos"
   },
   {
+    "id": 3,
     "nombre": "ricardo",
-    "edad": "3",
+    "edad": 3,
     "tipo": "loro",
     "color": "verde",
     "enfermedad": "fiebre"
