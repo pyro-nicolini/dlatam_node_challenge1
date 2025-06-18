@@ -5,7 +5,6 @@ const operacion = process.argv[2];
 const [nombre, edad, tipo, color, enfermedad] = process.argv.slice(3);
 
 // const datos = process.argv.slice(3);
-
 // const nombre = datos[0];
 // const edad = datos[1];
 // const tipo = datos[2];

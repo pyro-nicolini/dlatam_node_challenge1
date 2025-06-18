@@ -1,6 +1,6 @@
 ## INSTRUCCIONES
 
-### como usar?
+### como usar
 
 ### 1. registro de nueva cita
 

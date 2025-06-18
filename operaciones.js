@@ -2,7 +2,6 @@ const fs = require('fs')
 
 let citas = [];
 let archivo = 'citas.JSON';
-
 const registrar = (nombre, edad, tipo, color, enfermedad) => {
     const nuevaCita = {
         nombre,
